@@ -1,6 +1,26 @@
 # CommonGround
 A sustainable, scalable platform for local engagement that will create measurable environmental and social impact. While offering a diversified revenue model aligned with growth and utility!
 
+# Table Of Contents
+
+- [CommonGround](#commonground)
+- [About](#about)
+- [1. Market & Revenue](#1-market--revenue)
+- [2. The Problem](#2-the-problem)
+- [3. The Solution](#3-the-solution)
+- [4. Market & Scalability](#4-market--scalability)
+- [5. SDG Alignment](#5-sdg-alignment)
+  
+# About
+
+I live near a park that was always empty. At the same time, I noticed people in my neighborhood struggling to find ways to connect casually. This contrast sparked the idea. After a bit of research online, I found out that parks, libraries, and other urban spaces often drain taxpayer money but sit mostly empty. On top of that, Digital isolation has gutted casual social bonds, leaving people lonelier than ever. Even finding a spot or planning a small meetup is absurdly difficult.
+
+In a lot of cases, urban planning often treats public spaces as static infrastructure rather than places for real community life. Zoning and car-focused layouts isolate neighborhoods, making casual interaction harder. I wanted to build something that would make our shared spaces feel alive again.
+
+CommonGround helps people find and use public spaces, parks and libraries in real-time. It shows what's available and makes it easy to organize casual meetups, events, etc turning empty spaces into community hubs.
+
+Another Important thing it does is that the platform naturally creates value by driving more activity to public assets, which opens up natural opportunities like partnerships with cities for management tools and  even local businesses wanting to reach engaged community members.
+
 Figure 1:
 ![](https://github.com/umogal/CommonGround/blob/main/Screenshot_20250924_134713_com_brave_browser_CustomTabActivity_edit_2036788383857.jpg)
 *Event Types Screen*
@@ -62,4 +82,4 @@ Public spaces and community life are constrained by three critical inefficiencie
 
 
 This project, including its prototype, slides/presentation, and figures, was submitted to the Devpost Deckathon competition (https://deckathon.devpost.com/
-). I plan to further develop it into a production-ready application once I have the time. 
+). I plan to further develop it into a production-ready application and focus on engaging local communities early to shape its future, once I have the time. 
