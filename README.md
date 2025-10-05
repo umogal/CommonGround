@@ -1,4 +1,5 @@
 # CommonGround
+
 A sustainable, scalable platform for local engagement that will create measurable environmental and social impact. While offering a diversified revenue model aligned with growth and utility!
 
 # Table Of Contents
@@ -12,6 +13,13 @@ A sustainable, scalable platform for local engagement that will create measurabl
 - [5. SDG Alignment](#5-sdg-alignment)
   
 # About
+
+NOTE : 
+
+This project, including its prototype, slides/presentation, and figures, was submitted to the [Devpost Deckathon competition](https://deckathon.devpost.com/
+) 
+
+I plan to further develop it into a production-ready application and focus on engaging local communities early to shape its future, once I have the time.
 
 I live near a park that was always empty. At the same time, I noticed people in my neighborhood struggling to find ways to connect casually. This contrast sparked the idea. After a bit of research online, I found out that parks, libraries, and other urban spaces often drain taxpayer money but sit mostly empty. On top of that, Digital isolation has gutted casual social bonds, leaving people lonelier than ever. Even finding a spot or planning a small meetup is absurdly difficult.
 
@@ -81,5 +89,3 @@ Public spaces and community life are constrained by three critical inefficiencie
 
 
 
-This project, including its prototype, slides/presentation, and figures, was submitted to the Devpost Deckathon competition (https://deckathon.devpost.com/
-). I plan to further develop it into a production-ready application and focus on engaging local communities early to shape its future, once I have the time. 
